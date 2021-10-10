@@ -10,5 +10,6 @@ public class hiveTest4 {
     public static void main(String[] args) {
 
         System.out.println("ni");
+        System.out.println("flink");
     }
 }
