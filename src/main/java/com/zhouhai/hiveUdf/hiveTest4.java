@@ -12,5 +12,6 @@ public class hiveTest4 {
         System.out.println("ni");
         System.out.println("flink");
         System.out.println("spark");
+        System.out.println("hive");
     }
 }
