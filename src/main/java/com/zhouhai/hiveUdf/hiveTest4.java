@@ -13,7 +13,7 @@ public class hiveTest4 {
         System.out.println("flink");
         System.out.println("spark");
         System.out.println("hive");
-
         System.out.println("hadoop");
+        System.out.println("push test!");
     }
 }
